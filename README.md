@@ -1,4 +1,4 @@
-Sure, I'll provide you with the text for the documentation that you can copy into a Word document.
+
 
 ---
 
@@ -232,4 +232,4 @@ files.download("requirements.txt")
 
 ---
 
-Copy this text into your Word document. If you need any further assistance or adjustments, feel free to ask!
+
